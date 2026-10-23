@@ -1,2 +1,7 @@
 hello GitHub
+<<<<<<< HEAD
 hello anu
+=======
+hello good
+>>>>>>> feature1
+hello chai
